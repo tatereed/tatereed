@@ -1,4 +1,9 @@
-### Hi there 👋
+### tatereed
+# programming for fun and hobby
+not looking to ever make it my job. just something to pass the time
+# current projects
+working on relearning front-end web and learning back-end through <a href="https://theodinproject.com">the odin project</a>
+
 
 <!--
 **tatereed/tatereed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
